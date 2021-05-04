@@ -1,0 +1,8 @@
+Req #,Requirement Text
+1,The iPhone’s battery life shall be 12 hours
+2,Additionally - the iPhone’s battery shall be capable of wireless charging.
+3,Unless otherwise specified in this document - Mode S interrogator and transponder performance - including ATCRBS-Only All-Call and ATCRBS/Mode S All-Call - shall meet the applicable functional requirements of ICAO Annex 10 Volume IV - ICAO 9871 - and RTCA/DO-181 ( ) as amended by Technical Standard Order (TSO)-C112 ( ).
+4,The minimum Mode S capability for airborne transponders shall be equivalent to Level 2 as defined in DO-181 ( )
+5,Airborne transponders shall at a minimum support Elementary Surveillance (ELS) operation per DO-181 ( ) and Mode S Extended Squitter (1090ES) ADS-B OUT per DO- 260 ( ) using Downlink Format (DF)=17
+6,Airborne transponders intended for fixed wing transport - cargo - and refueling platforms shall support Enhanced Surveillance (EHS) operation per DO-181( ).
+7,Transponders used in conjunction with TCAS shall meet the applicable requirements in DO-185 ( ) and DO-181 ( ).
